@@ -20,6 +20,16 @@ Most football prediction sites either hide everything behind a paywall or recycl
 
 Visit **[footballant.com](https://footballant.com)** — no signup required to browse predictions and analysis.
 
+## Download the app
+
+Get live scores, AI predictions, and match analysis on the go:
+
+[![Download on the App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple)](https://apps.apple.com/us/app/footballant-ai-live-scores/id1542573129)
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-Get_it_on-black?logo=google-play)](https://play.google.com/store/apps/details?id=com.poxiao.football)
+
+- iOS: [FootballAnt: AI & Live Scores on the App Store](https://apps.apple.com/us/app/footballant-ai-live-scores/id1542573129)
+- Android: [FootballAnt: AI & Live Scores on Google Play](https://play.google.com/store/apps/details?id=com.poxiao.football)
+
 ## Links
 
 - Website: [https://footballant.com](https://footballant.com)
